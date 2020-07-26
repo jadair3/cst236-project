@@ -1,0 +1,16 @@
+.baseForm {
+    margin: auto;
+    width: 25%;
+    border: 1px solid blue;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-align: center;
+}
+
